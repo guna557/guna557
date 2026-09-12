@@ -6,6 +6,8 @@
 
 **Learning technology, building projects, and improving one step at a time.**
 
+<img src="./github-metrics.svg" width="100%" alt="GitHub Metrics">
+
 </div>
 
 ---
