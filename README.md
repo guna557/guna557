@@ -1,80 +1,85 @@
-# Guna Vundavilli
+<div align="center">
 
-### CSE (AI) Student | Building. Learning. Growing.
+# 👋 Hey, I'm Guna Vundavilli
 
-I'm a student exploring technology, AI, and software development while building projects that solve real-world problems.
+### 🎓 CSE (Artificial Intelligence) Student
 
----
+**Learning technology, building projects, and improving one step at a time.**
 
-## 👨‍💻 About Me
-
-- 🎓 CSE (Artificial Intelligence) student
-- 🤖 Interested in AI, Machine Learning & intelligent systems
-- 🌐 Exploring web development and full-stack applications
-- 🌾 Building technology solutions for real-world problems
-- 🧠 Currently learning and improving every day
-- 🎯 Goal: Build useful things and become genuinely good at what I do
+</div>
 
 ---
 
-## 🚀 Featured Project
+## 🧑‍💻 About Me
 
-### 🌾 KrishiSetu — Agri Marketplace
+I'm currently a **CSE (AI) student** at the beginning of my journey in technology.
 
-A direct-to-consumer and bulk-buyer agricultural marketplace designed to connect Farmers/FPOs directly with buyers.
+I'm still learning the fundamentals, experimenting with projects, making mistakes, fixing them, and slowly getting better.
 
-### What I'm building into it:
+I don't know everything yet—and I'm completely okay with that.
 
-- 👨‍🌾 Farmer-friendly marketplace
-- 🛒 Direct connection between farmers and buyers
-- 🌐 Multi-language support
-- 🛡️ Farmer verification
-- 📦 Bulk ordering
+> **Learn → Build → Improve → Repeat**
+
+---
+
+## 🌱 Currently Learning
+
+- 💻 C Programming
+- 🐍 Python Fundamentals
+- 🔧 Git & GitHub
+- 🧠 Computer Science Fundamentals
+- 🤖 Artificial Intelligence — just starting the journey
+
+---
+
+## 🛠️ What I Currently Know & Use
+
+### 💻 Programming
+
+- C 🌱
+- Python 🌱
+
+### 🔧 Tools
+
+- VS Code
+- Git
+- GitHub
+- Replit
+- CLion
+- Microsoft Office
+
+> 🌱 Still learning. This profile will grow as I do.
+
+---
+
+# 🚀 Projects
+
+## 🌾 KrishiSetu — Agri Marketplace
+
+A project focused on creating a more direct connection between **Farmers/FPOs and Buyers**.
+
+### The idea includes:
+
+- 👨‍🌾 A farmer-friendly experience
+- 🛒 Direct farmer-to-buyer marketplace
+- 🌐 Multi-language accessibility
+- ✅ Farmer verification
+- 📦 Bulk buying
 - 🗺️ Logistics integration
-- 🤖 AI demand forecasting
-- 🚚 Route optimization
+- 🤖 Future AI-based demand forecasting
+- 🚚 Future route optimization
+
+🔗 **[View KrishiSetu →](https://github.com/guna557/KrishiSetu-Agri-Marketplace)**
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🔮 More Projects Coming
 
-### Currently Working With
+I'm still learning and building.
 
-**Programming & Development**
-
-`C Language` Learning Stage
-
-**Web Development**
-
-`HTML` Learning Stage
-
-**Tools**
-
-`Git` • `GitHub` • `VS Code` • `Replit`
-
----
-
-## 🧠 Currently Exploring
-
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧮 Data Structures & Algorithms
-- 🌐 Full-Stack Development
-- 🧠 Deep Learning
-- 🏗️ System Design
-
----
-
-## 🎯 What I Like Building
-
-> Things that are actually useful.
-
-I'm especially interested in projects involving:
-
-`AI/ML` • `Agriculture Technology` • `Web Applications` • `Automation`
-
----
-
-## 🌱 Current Focus
+Hopefully, this section will look very different in the future.
 
 ```text
-Learning → Building → Breaking things → Fixing them → Learning again
+Current version: 🌱 Beginner
+
+Future version: 🚀 Let's find out.
