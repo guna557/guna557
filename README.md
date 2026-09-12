@@ -6,7 +6,6 @@
 
 **Learning technology, building projects, and improving one step at a time.**
 
-<img src="./github-metrics.svg" width="100%" alt="GitHub Metrics">
 
 </div>
 
@@ -82,6 +81,27 @@ I'm still learning and building.
 Hopefully, this section will look very different in the future.
 
 ```text
+
+<div align="center">
+
+<img src="./general.svg" width="100%" />
+
+<br/>
+
+<img src="./habits.svg" width="100%" />
+
+<br/>
+
+<img src="./activity.svg" width="100%" />
+
+<br/>
+
+<img src="./calendar.svg" width="100%" />
+
+</div>
+
+
+
 Current version: 🌱 Beginner
 
 Future version: 🚀 Let's find out.
