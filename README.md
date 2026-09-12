@@ -42,11 +42,11 @@ A direct-to-consumer and bulk-buyer agricultural marketplace designed to connect
 
 **Programming & Development**
 
-`Python` • `JavaScript` • `TypeScript`
+`C Language` Learning Stage
 
 **Web Development**
 
-`React` • `HTML` • `CSS` • `Tailwind CSS`
+`HTML` Learning Stage
 
 **Tools**
 
