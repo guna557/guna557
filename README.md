@@ -78,10 +78,6 @@ A project focused on creating a more direct connection between **Farmers/FPOs an
 
 I'm still learning and building.
 
-Hopefully, this section will look very different in the future.
-
-```text
-
 <div align="center">
 
 <img src="./general.svg" width="100%" />
@@ -100,7 +96,7 @@ Hopefully, this section will look very different in the future.
 
 </div>
 
-
+```text
 
 Current version: 🌱 Beginner
 
